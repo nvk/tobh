@@ -7,6 +7,9 @@
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 <!-- <meta http-equiv="refresh" content="5; URL=http://www.ripeapps.com"> -->
+  <link rel="shortcut icon" href="img/favicon.ico" type="image/ico" />
+  <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="img/favicon.png" type="image/png" />
 <style>
   article, aside, details, figcaption, figure, footer, header,
   hgroup, menu, nav, section { display: block; }
