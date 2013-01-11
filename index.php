@@ -54,8 +54,8 @@
               <div id="mc_embed_signup">
               <form action="http://ripeapps.us1.list-manage.com/subscribe/post?u=45f08dd991a660cced47282ce&amp;id=0779908e55" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                 
-                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required style="display: inline-block">
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="display: inline-block">
               </form>
               </div>
 
