@@ -2,11 +2,11 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<title>Novak + Co.</title>
+<title>Code for Canda</title>
 <!--[if IE]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<meta http-equiv="refresh" content="5; URL=http://www.rodolfonovak.com">
+<!-- <meta http-equiv="refresh" content="5; URL=http://www.ripeapps.com"> -->
 <style>
   article, aside, details, figcaption, figure, footer, header,
   hgroup, menu, nav, section { display: block; }
@@ -22,7 +22,7 @@
      margin-left: auto;
      margin-right: auto;
      height: 400px;
-     background: url(img/novak-w.png) no-repeat;
+     background: url(img/codeforcanada-logo.png) no-repeat;
   }
 </style>
 </head>
