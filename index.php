@@ -22,6 +22,7 @@
      margin-left: auto;
      margin-right: auto;
      height: 400px;
+     text-align: center;
   }
   #logo{
     display: block;
@@ -30,7 +31,7 @@
   }
   h1{
     font-family: sans-serif;
-    color: #333;
+    color: #3f3f3f;
   }
 </style>
 </head>
