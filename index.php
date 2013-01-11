@@ -43,6 +43,7 @@
         <div id="content">
           <div id="logo"></div>
           <h1>Code for Canada</h1>
+          <p style="color: #ccc;text-align: center">Soon, sign up bellow for updates</p>
           <div>
               <!-- Begin MailChimp Signup Form -->
               <link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
