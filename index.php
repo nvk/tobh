@@ -22,14 +22,23 @@
      margin-left: auto;
      margin-right: auto;
      height: 400px;
-     background: url(img/codeforcanada-logo.png) no-repeat;
+  }
+  #logo{
+    display: block;
+    height: 251px;
+    background: url(img/codeforcanada-logo.png) no-repeat;
+  }
+  h1{
+    font-family: sans-serif;
+    color: #333;
   }
 </style>
 </head>
   <body>
       <div id="container">
         <div id="content">
-          <h1></h1>
+          <div id="logo"></div>
+          <h1>Code for Canada</h1>
         </div>
       </div>
   </body>
