@@ -30,7 +30,7 @@
   #logo{
     display: block;
     height: 251px;
-    background: url(img/codeforcanada-logo.png) no-repeat;
+    background: url(img/logo.png) no-repeat;
   }
   h1{
     font-family: sans-serif;
@@ -41,8 +41,8 @@
   <body>
       <div id="container">
         <div id="content">
-          <div id="logo"></div>
-          <h1>Code for Canada</h1>
+          <!--<div id="logo"></div>-->
+          <h1>Toronto Bitcoin Hackathon</h1>
           <p style="color: #ccc;text-align: center">Soon, sign up bellow for updates</p>
           <div>
               <!-- Begin MailChimp Signup Form -->
@@ -53,7 +53,7 @@
                    We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
               </style>
               <div id="mc_embed_signup">
-              <form action="http://ripeapps.us1.list-manage.com/subscribe/post?u=45f08dd991a660cced47282ce&amp;id=0779908e55" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+              <form action="http://ripeapps.us1.list-manage.com/subscribe/post?u=45f08dd991a660cced47282ceamp;id=cdcbac6541" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                 
                 <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required style="display: inline-block">
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="display: inline-block">
