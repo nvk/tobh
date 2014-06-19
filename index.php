@@ -2,12 +2,10 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<title>Code for Canda</title>
+<title>Toronto Bitcoin Hackathon</title>
 <!--[if IE]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<!-- <meta http-equiv="refresh" content="5; URL=http://www.ripeapps.com"> -->
-  <link rel="shortcut icon" href="img/favicon.ico" type="image/ico" />
   <link rel="icon" href="img/favicon.ico" type="image/x-icon">
   <link rel="icon" href="img/favicon.png" type="image/png" />
 <style>
@@ -33,7 +31,8 @@
     background: url(img/logo.png) no-repeat;
   }
   h1{
-    font-family: sans-serif;
+	font-size:2em;
+    font-family: "Open Sans", sans-serif;
     color: #3f3f3f;
   }
 </style>
