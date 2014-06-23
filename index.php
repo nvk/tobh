@@ -40,12 +40,16 @@
   <body>
       <div id="container">
         <div id="content">
-          <!--<div id="logo"></div>-->
-          <h1>Toronto Bitcoin Hackathon</h1>
-          <p style="color: #ccc;text-align: center">Soon, sign up bellow for updates</p>
+          <div id="logo"></div>
+          <h1>Toronto Bitcoin Hackathon 2014</h1>
+	      <h2>Organized by Coinkite</h2>
+          <p style="color: #ccc;text-align: center">August 22-14 2014
+			<a href="">Get your tickets here</a>
+			<a href="http://www.hackathon.io/toronto4">Sign up you team here</a>
+	      </p>
           <div>
               <!-- Begin MailChimp Signup Form -->
-              <link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+              <!-- <link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
               <style type="text/css">
                 #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
                 /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
@@ -58,7 +62,7 @@
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="display: inline-block">
               </form>
               </div>
-
+		      -->
               <!--End mc_embed_signup-->
           </div>
         </div>
