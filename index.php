@@ -46,7 +46,7 @@
     background: url(img/logo.png) no-repeat center;
   }
   a{
-    color:#FF9900;
+    color:#ed5922;
     }
   .btn{
     width: 87%;
@@ -61,16 +61,21 @@
     }
     .btn:hover{
     text-decoration: none;
-    background:#FF9900;
+    background:#ed5922;
     color:#000;
     }
   h1{
 	font-size:2em;
     font-family: "Open Sans", sans-serif;
-    color: #FF9900;
+    color: #ed5922;
   }
    h2{
+	font-weight:normal;
      font-size:1em;
+    }
+	h2 a{
+		color:#fff;
+		text-decoration:none;
     }
 </style>
 </head>
@@ -79,12 +84,12 @@
         <div id="content">
           <div id="logo"></div>
           <h1>Toronto Bitcoin Hackathon 2014</h1>
-	      <h2>Organized by Coinkite</h2>
+	      <h2>Organized by <a href="https://coinkite.com">Coinkite</a></h2>
           <p style="color: #ccc;text-align: center">August 22-14 2014 <br>
 			<a href="http://www.hackathon.io/toronto4" class="btn">Information</a>
-            <a href="http://www.hackathon.io/toronto4" class="btn">Sign up you team here</a>
-			<a href="http://toronto-bitcoin-2014.eventbrite.ca" 
-					class="btn">Get your tickets here</a>
+            <a href="http://toronto-bitcoin-2014.eventbrite.ca"
+                    class="btn">Get your tickets</a>
+            <a href="http://www.hackathon.io/toronto4" class="btn">Sign up you team</a>
 			<a href="mailto:events@coinkite.com?subject=Volunteer" 
 					class="btn">Want to volunteer?</a>
             <a href="mailto:events@coinkite.com?subject=Sponsor"
