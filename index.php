@@ -11,30 +11,66 @@
 <style>
   article, aside, details, figcaption, figure, footer, header,
   hgroup, menu, nav, section { display: block; }
+  body{
+    font-family: "Open Sans", sans-serif;
+	background:#141414;
+	color:#ccc;
+    text-align:center;
+  }
+  p{
+    color:#FF7B00;
+  }
   #container{
      position: absolute;
      top: 50%;
-     margin-top: -220px;/* half of #content height*/
+     margin-top: -355px;/* half of #content height*/
      left: 0;
      width: 100%;
+	 
   }
   #content {
      width: 400px;
      margin-left: auto;
      margin-right: auto;
-     height: 400px;
+     height: 670px;
      text-align: center;
+	 padding: 20px;
+     background-color: #1a1a1a;
+     border: #3c2c20 1px solid; 
+     color: #f7f7f7;
+     border-radius: 5px;
   }
   #logo{
     display: block;
-    height: 251px;
-    background: url(img/logo.png) no-repeat;
+    height: 380px;
+    background: url(img/logo.png) no-repeat center;
   }
+  a{
+    color:#FF9900;
+    }
+  .btn{
+    width: 87%;
+    padding: 6px 10px;
+    background: #000;
+    border: #3c2c20 1px solid;
+    line-height: 1.5em;
+    margin-top: 10px;
+    display: inline-block;
+    text-decoration: none;
+    }
+    .btn:hover{
+    text-decoration: none;
+    background:#FF9900;
+    color:#000;
+    }
   h1{
 	font-size:2em;
     font-family: "Open Sans", sans-serif;
-    color: #3f3f3f;
+    color: #FF9900;
   }
+   h2{
+     font-size:1em;
+    }
 </style>
 </head>
   <body>
@@ -43,9 +79,9 @@
           <div id="logo"></div>
           <h1>Toronto Bitcoin Hackathon 2014</h1>
 	      <h2>Organized by Coinkite</h2>
-          <p style="color: #ccc;text-align: center">August 22-14 2014
-			<a href="http://www.hackathon.io/toronto4">Information and Sign up you team here</a>
-			<br> <a href="http://toronto-bitcoin-2014.eventbrite.ca">Get your tickets here</a>
+          <p style="color: #ccc;text-align: center">August 22-14 2014 <br>
+			<a href="http://www.hackathon.io/toronto4" class="btn">Information and Sign up you team here</a>
+			<br> <a href="http://toronto-bitcoin-2014.eventbrite.ca" class="btn">Get your tickets here</a>
 	      </p>
           <div>
               <!-- Begin MailChimp Signup Form -->
