@@ -57,6 +57,7 @@
     margin-top: 10px;
     display: inline-block;
     text-decoration: none;
+    border-radius: 5px;
     }
     .btn:hover{
     text-decoration: none;
