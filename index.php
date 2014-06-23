@@ -23,7 +23,7 @@
   #container{
      position: absolute;
      top: 50%;
-     margin-top: -355px;/* half of #content height*/
+     margin-top: -440px;/* half of #content height*/
      left: 0;
      width: 100%;
 	 
@@ -32,7 +32,7 @@
      width: 400px;
      margin-left: auto;
      margin-right: auto;
-     height: 670px;
+     height: 810px;
      text-align: center;
 	 padding: 20px;
      background-color: #1a1a1a;
