@@ -81,8 +81,14 @@
           <h1>Toronto Bitcoin Hackathon 2014</h1>
 	      <h2>Organized by Coinkite</h2>
           <p style="color: #ccc;text-align: center">August 22-14 2014 <br>
-			<a href="http://www.hackathon.io/toronto4" class="btn">Information and Sign up you team here</a>
-			<br> <a href="http://toronto-bitcoin-2014.eventbrite.ca" class="btn">Get your tickets here</a>
+			<a href="http://www.hackathon.io/toronto4" class="btn">Information</a>
+            <a href="http://www.hackathon.io/toronto4" class="btn">Sign up you team here</a>
+			<a href="http://toronto-bitcoin-2014.eventbrite.ca" 
+					class="btn">Get your tickets here</a>
+			<a href="mailto:events@coinkite.com?subject=Volunteer" 
+					class="btn">Want to volunteer?</a>
+            <a href="mailto:events@coinkite.com?subject=Sponsor"
+                    class="btn">Want to Sponsor?</a>
 	      </p>
           <div>
               <!-- Begin MailChimp Signup Form -->
