@@ -54,7 +54,7 @@
     background: #000;
     border: #3c2c20 1px solid;
     line-height: 1.5em;
-    margin-top: 10px;
+    margin-bottom: 10px;
     display: inline-block;
     text-decoration: none;
     border-radius: 5px;
@@ -74,7 +74,7 @@
    h2{
 	font-weight:normal;
      font-size:1em;
-	margin:10px 0;
+	margin:8px 0;
 	letter-spacing:0.05em;
     }
 	h2 a{
@@ -88,7 +88,7 @@
         <div id="content">
           <div id="logo"></div>
           <h1>Toronto Bitcoin Hackathon 2014</h1>
-	      <h2>August 22-14 2014</h2>
+	      <h2>Join us August 22 to 24, 2014<br>For A Weekend Of Amazing Projects.</h2>
           <p style="color: #ccc;text-align: center">
 			<a href="http://www.hackathon.io/toronto4" class="btn">Information</a>
             <a href="http://toronto-bitcoin-2014.eventbrite.ca"
