@@ -93,9 +93,9 @@
         <div id="content">
           <div id="logo"></div>
           <h1>Toronto Bitcoin Hackathon 2014</h1>
-	      <h2>Join <a href="https://coinkite.com">Coinkite</a>, 
-				<a href="https://vaultofsatoshi.com">Vault-of-Satoshi</a> 
-				and <a href="https://extremestartups.com">Extreme&nbsp;Startups</a> 
+	      <h2>Join <a href="https://coinkite.com"><i>Coinkite</i></a>, 
+				<a href="https://vaultofsatoshi.com"><i>Vault-of-Satoshi</i></a> 
+				and <a href="https://extremestartups.com"><i>Extreme&nbsp;Startups</i></a> 
 				On <b>August 22 to 24, 2014</b><br>For A Weekend Of Amazing Projects.</h2>
           <p style="color: #ccc;text-align: center">
 			<a href="http://www.hackathon.io/toronto4" class="btn">Information</a>
@@ -105,7 +105,7 @@
 			<a href="mailto:events@coinkite.com?subject=Volunteer" 
 					class="btn">Want to volunteer?</a>
             <a href="mailto:events@coinkite.com?subject=Sponsor"
-                    class="btn">Want to Sponsor?</a>
+                    class="btn">Want to sponsor?</a>
 	      </p>
           <div>
               <!-- Begin MailChimp Signup Form -->
