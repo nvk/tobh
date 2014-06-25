@@ -32,7 +32,7 @@
      width: 400px;
      margin-left: auto;
      margin-right: auto;
-     height: 810px;
+     height: 822px;
      text-align: center;
 	 padding: 20px;
      background-color: #1a1a1a;
@@ -72,14 +72,19 @@
 	line-height: 1.2em;
   }
    h2{
+	color:#ed5922;
 	font-weight:normal;
-     font-size:1em;
+    font-size:1em;
 	margin:8px 0;
 	letter-spacing:0.05em;
     }
 	h2 a{
-		color:#fff;
+		color:#ed5922;
 		text-decoration:none;
+    }
+	h2 a:hover{
+        color:#ed5922;
+        text-decoration:underline;
     }
 </style>
 </head>
@@ -88,7 +93,10 @@
         <div id="content">
           <div id="logo"></div>
           <h1>Toronto Bitcoin Hackathon 2014</h1>
-	      <h2>Join Us August 22 to 24, 2014<br>For A Weekend Of Amazing Projects.</h2>
+	      <h2>Join <a href="https://coinkite.com">Coinkite</a>, 
+				<a href="https://vaultofsatoshi.com">Vault-of-Satoshi</a> 
+				and <a href="https://extremestartups.com">Extreme&nbsp;Startups</a> 
+				On <b>August 22 to 24, 2014</b><br>For A Weekend Of Amazing Projects.</h2>
           <p style="color: #ccc;text-align: center">
 			<a href="http://www.hackathon.io/toronto4" class="btn">Information</a>
             <a href="http://toronto-bitcoin-2014.eventbrite.ca"
