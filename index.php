@@ -34,10 +34,10 @@
 	 
   }
   #content {
-     width: 400px;
+     width: 390px;
      margin-left: auto;
      margin-right: auto;
-     height: 822px;
+     height: 840px;
      text-align: center;
 	 padding: 20px;
      background: rgba(36, 36, 36, 0.560);
@@ -70,13 +70,14 @@
     color:#000;
     }
   h1{
-	font-size:3em;
-    font-family: "Open Sans", sans-serif;
-    color: #ed5922;
-	margin:10px 0;
+  	font-size: 3.4em;
+	font-family: "Open Sans", sans-serif;
+	color: #ed5922;
+	margin: 10px 0 18px;
 	line-height: 1.2em;
-  }
-  	h2{
+	font-weight: 200;
+	}
+  h2{
 	color:#fff;
     font-size:1em;
 	margin:8px 0;
