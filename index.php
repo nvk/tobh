@@ -88,7 +88,7 @@
         <div id="content">
           <div id="logo"></div>
           <h1>Toronto Bitcoin Hackathon 2014</h1>
-	      <h2>Join us August 22 to 24, 2014<br>For A Weekend Of Amazing Projects.</h2>
+	      <h2>Join Us August 22 to 24, 2014<br>For A Weekend Of Amazing Projects.</h2>
           <p style="color: #ccc;text-align: center">
 			<a href="http://www.hackathon.io/toronto4" class="btn">Information</a>
             <a href="http://toronto-bitcoin-2014.eventbrite.ca"
