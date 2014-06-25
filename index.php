@@ -88,7 +88,7 @@
         <div id="content">
           <div id="logo"></div>
           <h1>Toronto Bitcoin Hackathon 2014</h1>
-	      <h2>Organized by <a href="https://coinkite.com">Coinkite</a>, <em>August 22-14 2014</em></h2>
+	      <h2>August 22-14 2014</h2>
           <p style="color: #ccc;text-align: center">
 			<a href="http://www.hackathon.io/toronto4" class="btn">Information</a>
             <a href="http://toronto-bitcoin-2014.eventbrite.ca"
