@@ -12,10 +12,15 @@
   article, aside, details, figcaption, figure, footer, header,
   hgroup, menu, nav, section { display: block; }
   body{
-    font-family: "Open Sans", sans-serif;
+	font-size:15px;
+    font-family: "Menlo", monospace;
+	font-weight:lighter;
 	background:#141414;
 	color:#ccc;
     text-align:center;
+	background-image: url(http://subtlepatterns.com/patterns/office.png); 
+	background-position: initial initial; 
+	background-repeat: initial initial;
   }
   p{
     color:#FF7B00;
@@ -35,7 +40,7 @@
      height: 822px;
      text-align: center;
 	 padding: 20px;
-     background-color: #1a1a1a;
+     background: rgba(36, 36, 36, 0.560);
      border: #3c2c20 1px solid; 
      color: #f7f7f7;
      border-radius: 5px;
@@ -46,7 +51,7 @@
     background: url(img/logo.png) no-repeat center;
   }
   a{
-    color:#ed5922;
+    color:#fff;
     }
   .btn{
     width: 87%;
@@ -71,15 +76,14 @@
 	margin:10px 0;
 	line-height: 1.2em;
   }
-   h2{
-	color:#ed5922;
-	font-weight:normal;
+  	h2{
+	color:#fff;
     font-size:1em;
 	margin:8px 0;
-	letter-spacing:0.05em;
+	line-height:1.5;
     }
 	h2 a{
-		color:#ed5922;
+		color:#fff;
 		text-decoration:none;
     }
 	h2 a:hover{
@@ -96,7 +100,7 @@
 	      <h2>Join <a href="https://coinkite.com"><i>Coinkite</i></a>, 
 				<a href="https://vaultofsatoshi.com"><i>Vault-of-Satoshi</i></a> 
 				and <a href="https://extremestartups.com"><i>Extreme&nbsp;Startups</i></a> 
-				On <b>August 22 to 24, 2014</b><br>For A Weekend Of Amazing Projects.</h2>
+				On <b>August 22 to 24</b><br>For A Weekend Of Amazing Projects.</h2>
           <p style="color: #ccc;text-align: center">
 			<a href="http://www.hackathon.io/toronto4" class="btn">Information</a>
             <a href="http://toronto-bitcoin-2014.eventbrite.ca"
