@@ -21,6 +21,7 @@
 	background-image: url(http://subtlepatterns.com/patterns/office.png); 
 	background-position: initial initial; 
 	background-repeat: initial initial;
+	min-height:1050px;
   }
   p{
     color:#FF7B00;
@@ -28,16 +29,16 @@
   #container{
      position: absolute;
      top: 50%;
-     margin-top: -440px;/* half of #content height*/
+     margin-top: -414px;/* half of #content height*/
      left: 0;
      width: 100%;
 	 
   }
   #content {
-     width: 390px;
+     width: 410px;
      margin-left: auto;
      margin-right: auto;
-     height: 840px;
+     height: 786px;
      text-align: center;
 	 padding: 20px;
      background: rgba(36, 36, 36, 0.560);
@@ -107,10 +108,10 @@
             <a href="http://toronto-bitcoin-2014.eventbrite.ca"
                     class="btn">Get your tickets</a>
             <a href="http://www.hackathon.io/toronto4" class="btn">Sign up you team</a>
-			<a href="mailto:events@coinkite.com?subject=Volunteer" 
-					class="btn">Want to volunteer?</a>
-            <a href="mailto:events@coinkite.com?subject=Sponsor"
-                    class="btn">Want to sponsor?</a>
+			<!--<a href="mailto:events@coinkite.com?subject=Volunteer" 
+					class="btn">Want to volunteer?</a>-->
+            <a href="mailto:events@coinkite.com?subject=TOBH-Contact"
+                    class="btn">Contact us</a>
 	      </p>
           <div>
               <!-- Begin MailChimp Signup Form -->
